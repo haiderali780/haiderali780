@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi im Haider Ali 😉
+
+> HARD TIMES MAKES MAN PERFECgyn
+
+
+## Hobbies
+- Gym
+
+*_  skills  _*
+
+[Go to learn Cpp ](https://www.google.com)
+
+![image name](/m.png)  
+
+
+```cpp
+#include<iostream>
+
+```
+
+
+
