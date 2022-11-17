@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your_GitHub_username>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haiderali780&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
