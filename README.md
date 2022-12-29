@@ -32,5 +32,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&" alt="haiderali780" /></p>
 
+<div>
+    <img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/>
+</div>
+
 
 
