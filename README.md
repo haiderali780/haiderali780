@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Haider Ali</h1>
+
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/zohair-baig-170288217">Haider Ali</a>👨‍💻</h1>
+
 <h3 align="center">A passionate software engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali780&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali780" /> </p>
