@@ -5,17 +5,71 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali780&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali780" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haiderali780" alt="haiderali780" /></a> </p>
+
 
 - 🔭 I’m currently studying **Software Engineering**
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **c,c++,javascript,ReactJs**
+- 💬 Ask me about **c,c++,javascript,ReactJs,Gti,GitHub**
 
-- 📫 How to reach me **haiderali782002@gamil.com**
+
 
 - ⚡ Fun fact **Gym Freak**
+
+
+### 🛠 &nbsp; Tech Stack  
+<br>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<div/>
+<br>
+<br>
+<h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
+  
+  <br>
+  <p align="center">
+   <a href="https://github.com/SajjadAhmad14">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SajjadAhmad14&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAhmad14&show_icons=true&theme=midnight-purple&layout=compact" alt="sajjadahmad14" />
+  </a>
+</p>
+</h3>
+### 🤝🏻  &nbsp; Connect with Me <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajjadahmad14/">
+    <img height='20' src="https://img.shields.io/badge/LinkedIn-sajjadahmad14-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+  </a>
+  <a href="https://github.com/SajjadAhmad14">
+    <img height='20' src="https://img.shields.io/badge/Github-sajjadAhmad14-red?logo=Github&logoColor=red&labelColor=black">
+  </a>
+  <a href="https://twitter.com/Sajjad_Ahmad14">
+    <img height='20' src="https://img.shields.io/badge/Twitter-Sajjad_Ahmad14-blue?logo=Twitter&logoColor=blue&labelColor=black">
+  </a>
+  <a href="mailto:jogimar14@ggmail.com">
+    <img height='20' src="https://img.shields.io/badge/Gmail-jogimar14@ggmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
