@@ -43,9 +43,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&show_icons=true&theme=midnight-purple&layout=compact" alt="haiderali780" />
   </a>
 </p>
-  <div>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&theme=radical" alt="Total Contributions" /></p>  
-</div>
+
 </h3>
 ### 🤝🏻  &nbsp; Connect with Me <br>
 <p align="center">
@@ -55,7 +55,7 @@
   </a>
 
   <a href="haiderali782002@gmail.com">
-    <img height='20' src="https://img.shields.io/badge/Gmail-jogimar14@ggmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Gmail-haiderali782002@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
 </p>
 
