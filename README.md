@@ -3,6 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;I'm+Haider+Ali;Student+of+Software+Engineering;With+Passion%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+<p><img align="center" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
 <p align="center">
 
 <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
@@ -30,7 +33,10 @@
 - 💬 Ask me about **c,c++,javascript,ReactJs,Gti,GitHub**
 
 
+<p align="right">
 
+<img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
+</a>
 - ⚡ Fun fact **Gym Freak**
 
 
