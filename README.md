@@ -19,8 +19,6 @@
 
 
 
-<h3 align="center">A passionate software engineering Student</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali780&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali780" /> </p>
 
 
@@ -54,13 +52,13 @@
     📈  &nbsp; My GitHub Stats
   </summary> 
   
-  <br>
-  <p align="center">
-   <a href="https://github.com/haiderali780">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haiderali780&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&show_icons=true&theme=midnight-purple&layout=compact" alt="haiderali780" />
-  </a>
-</p>
+  ![](https://github-readme-stats.vercel.app/api?username=haiderali780&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  
+  
+
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&theme=radical" alt="Total Contributions" /></p>  
 
