@@ -1,5 +1,7 @@
 
-<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/zohair-baig-170288217">Haider Ali</a>👨‍💻</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;I'm+Haider+Ali;Student+of+Software+Engineerin;DS%20|%20Algorithms%20|%20OOP%20;With+Passion%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <p align="center">
 
@@ -66,16 +68,7 @@
 ### 🤝🏻  &nbsp; Connect with Me <br>
 <p align="center">
 
-  <a href="https://github.com/haiderali780">
-    <img height='20' src="https://img.shields.io/badge/Github-sajjadAhmad14-red?logo=Github&logoColor=red&labelColor=black">
-  </a>
-
-  <a href="haiderali782002@gmail.com">
-    <img height='20' src="https://img.shields.io/badge/Gmail-haiderali782002@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
-  </a>
-</p>
-
-
+  
 
 
 
