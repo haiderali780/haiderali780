@@ -34,10 +34,7 @@
 
 ### 🛠 &nbsp; Tech Stack  
 <br>
-<p align="right">
 
-<img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
-</a>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -45,8 +42,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="right">
 
-<div/>
+<img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
+</a>
+
 <br>
 <br>
 <h3>
