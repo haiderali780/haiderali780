@@ -2,12 +2,6 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/zohair-baig-170288217">Haider Ali</a>👨‍💻</h1>
 
 
-  <img src="https://media2.giphy.com/media/xUA7aO2BevR1zK6fE4/giphy.gif?cid=ecf05e478xsdyg8q31jde2xvrpgd3a8htnntvx7y5noqfech&rid=giphy.gif&ct=s" width="28">
-</h1>
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Test%20Automation;Automation;Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught%20UI%2FUX%20Designer;Node%20Js%20Developer;Asp%20Dot%20Net%20Developer;%20Flutter%20Developer;3years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
 
 
 
