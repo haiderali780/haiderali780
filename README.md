@@ -51,10 +51,10 @@
 </div>
 <br>
 <br>
-<h3>
-  <summary>
+
+  <div>
     📈  &nbsp; My GitHub Stats
-  </summary> 
+  </div> 
   
   ![](https://github-readme-stats.vercel.app/api?username=haiderali780&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&theme=radical&hide_border=false)<br/>
