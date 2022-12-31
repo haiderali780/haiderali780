@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;I'm+Haider+Ali;Software+Engineering +uUndergraduate;With+a%20Passion+For%20Lifelong%20Learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;I'm+Haider+Ali;Software+Engineering +uUndergraduate;With+a+Passion%20For%20Lifelong%20Learning&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
