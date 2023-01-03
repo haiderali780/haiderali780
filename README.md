@@ -3,7 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;I'm+Haider+Ali;Software+Engineering+Undergraduate;With+a+Passion%20for%20lifelong%20learning&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center"><img  src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="center">
+<img   src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
+</a>
+  </p>
 
 
 
@@ -43,10 +46,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="right">
-<img   src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
-</a>
-  </p>
+
   
   <p align="left">
   <img   alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
