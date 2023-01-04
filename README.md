@@ -64,6 +64,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   
+  
+  
+  
+   <div align="center">
+  <img src="https://github.com/haiderali780/haiderali780/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+<br/>
+  
+  
 
 ### 🤝🏻  &nbsp; Connect with Me <br>
 <p align="center">
