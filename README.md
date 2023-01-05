@@ -10,16 +10,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali780&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali780" /> </p>
 
 
