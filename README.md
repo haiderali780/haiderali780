@@ -36,13 +36,13 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-  
-  <p align="left">
+<p align="left">
   <img   alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 </p>
 <br>
 <br>
+  
+  
  
   <div>
   <div> </div>
@@ -56,11 +56,6 @@
   
   
   
-  
-   <div align="center">
-  <img src="https://github.com/haiderali780/haiderali780/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-<br/>
   
   
 
