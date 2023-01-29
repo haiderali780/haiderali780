@@ -15,9 +15,7 @@
 
 
 - 🔭 I’m currently studying **Software Engineering**
-
 - 🌱 I’m currently learning **web development**
-
 - 💬 Ask me about **c,c++,javascript,ReactJs,Gti,GitHub**
 - ⚡ Fun fact **Gym Freak**
 
