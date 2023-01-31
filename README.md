@@ -9,13 +9,12 @@
   </p>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali780&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali780" /> </p>
 
 
 
 - 🔭 I’m currently studying **Software Engineering**
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **MERN STACK**
 - 💬 Ask me about **c,c++,javascript,ReactJs,Gti,GitHub**
 - ⚡ Fun fact **Gym Freak**
 
@@ -50,8 +49,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-  
-
 ### 🤝🏻  &nbsp; Connect with Me <br>
 <p align="center">
   <a href="https://fb.com/Haider Hizz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Haider Hizz/" height="30" width="40" /></a>
