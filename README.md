@@ -1,15 +1,14 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;I'm+Haider+Ali;Software+Engineering+Undergraduate;With+a+Passion%20for%20lifelong%20learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+digital+playground!;Hello%2C+I'm+Haider%2C+a+Dynamic+Software+Engineer;&center=true&width=500&height=50">
+  </a>
 </p>
 
-<p align="center">
-<img   src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
-</a>
-  </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali780&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali780" /> </p>
+
+
 
 
 🚀 My Story:
