@@ -1,9 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+digital+playground!;Hello%2C+I'm+Haider%2C+a+Dynamic+Software+Engineer;&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+digital+playground!;Hello%2C+I'm+Haider%2C+a+Dynamic+Software+Engineer;&center=true&width=600&height=50">
   </a>
 </p>
+
 
 
 
