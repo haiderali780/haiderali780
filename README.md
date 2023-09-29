@@ -42,11 +42,11 @@
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="LINUX">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman" alt="Postman">
 
-  <img src="https://img.shields.io/badge/Formik-%2342D958.svg?style=flat&logo=formik" alt="Formik">
-  <img src="https://img.shields.io/badge/AmChart-%2363CF00.svg?style=flat&logo=amcharts" alt="AmChart">
-  <img src="https://img.shields.io/badge/Storybook-%230072E2.svg?style=flat&logo=storybook" alt="Storybook">
+  <img src="https://img.shields.io/badge/Formik-%2342D958.svg?style=flat&logo=formik&logoColor=white" alt="Formik">
+  <img src="https://raw.githubusercontent.com/amcharts/amcharts4/master/media/brand/logo_color.svg" alt="AmChart">
+  <img src="https://raw.githubusercontent.com/storybookjs/storybook/main/public/img/badges/light-blue.svg" alt="Storybook">
 </p>
 
 
