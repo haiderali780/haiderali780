@@ -42,13 +42,12 @@
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="LINUX">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white" alt="Postman">
 
-  <img src="https://img.shields.io/badge/Formik-%2342D958.svg?style=flat&logo=formik&logoColor=white" alt="Formik">
-  <img src="https://img.shields.io/badge/AmChart-%2363CF00.svg?style=flat&logo=amcharts&logoColor=white" alt="AmChart">
-  <img src="https://img.shields.io/badge/Storybook-%230072E2.svg?style=flat&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/Formik-%2342D958.svg?style=flat&logo=formik" alt="Formik">
+  <img src="https://img.shields.io/badge/AmChart-%2363CF00.svg?style=flat&logo=amcharts" alt="AmChart">
+  <img src="https://img.shields.io/badge/Storybook-%230072E2.svg?style=flat&logo=storybook" alt="Storybook">
 </p>
-
 
 
 <p align="left">
