@@ -44,8 +44,8 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman" alt="Postman">
 
-  <img src="https://img.shields.io/badge/Formik-%2342D958.svg?style=flat&logo=formik&logoColor=white" alt="Formik">
-  <img src="https://raw.githubusercontent.com/amcharts/amcharts4/master/media/brand/logo_color.svg" alt="AmChart">
+  <img src="https://raw.githubusercontent.com/formik/formik/master/docs/img/logo.svg" alt="Formik">
+  <img src="https://assets.amcharts.com/amcharts4/4.2.7/plugins/export-menu/export-menu.svg" alt="AmChart">
   <img src="https://raw.githubusercontent.com/storybookjs/storybook/main/public/img/badges/light-blue.svg" alt="Storybook">
 </p>
 
