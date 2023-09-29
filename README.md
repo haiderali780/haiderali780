@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/Storybook-%230072E2?style=flat&logo=storybook&logoColor=white" alt="Storybook">
 <img src="https://raw.githubusercontent.com/formik/formik/master/docs/img/logo.svg" alt="Formik">
 <img src="https://raw.githubusercontent.com/amcharts/amcharts4/master/media/brand/logo_color.svg" alt="AmChart">
+
 </p>
 
 
