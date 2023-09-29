@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 <img src="https://img.shields.io/badge/Storybook-%230072E2?style=flat&logo=storybook&logoColor=white" alt="Storybook">
 <img src="https://raw.githubusercontent.com/formik/formik/master/docs/img/logo.svg" alt="Formik">
-<img src="https://assets.amcharts.com/amcharts4/4.2.7/plugins/export-menu/export-menu.svg" alt="AmChart">
+<img src="https://raw.githubusercontent.com/amcharts/amcharts4/master/media/brand/logo_color.svg" alt="AmChart">
 </p>
 
 
