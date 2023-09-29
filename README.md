@@ -43,10 +43,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="LINUX">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman" alt="Postman">
-
-  <img src="https://raw.githubusercontent.com/formik/formik/master/docs/img/logo.svg" alt="Formik">
-  <img src="https://assets.amcharts.com/amcharts4/4.2.7/plugins/export-menu/export-menu.svg" alt="AmChart">
-  <img src="https://raw.githubusercontent.com/storybookjs/storybook/main/public/img/badges/light-blue.svg" alt="Storybook">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" >
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
 
