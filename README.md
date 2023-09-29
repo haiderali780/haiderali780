@@ -34,20 +34,20 @@
   
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js">
   
-  
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
   
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white" alt="MUI">
   
-  
-  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="LINUX">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-</p>
 
+  <img src="https://img.shields.io/badge/Formik-%2342D958.svg?style=flat&logo=formik&logoColor=white" alt="Formik">
+  <img src="https://img.shields.io/badge/AmChart-%2363CF00.svg?style=flat&logo=amcharts&logoColor=white" alt="AmChart">
+  <img src="https://img.shields.io/badge/Storybook-%230072E2.svg?style=flat&logo=storybook&logoColor=white" alt="Storybook">
+</p>
 
 
 
