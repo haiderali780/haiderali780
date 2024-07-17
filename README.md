@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira">
