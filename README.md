@@ -104,12 +104,7 @@
   ![](https://github-readme-stats.vercel.app/api?username=haiderali780&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  ### 🤝🏻  &nbsp; Connect with Me <br>
-<p align="center">
-  <a href="https://fb.com/Haider Hizz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Haider Hizz/" height="30" width="40" /></a>
-  <a href="https://instagram.com/hizzhaider33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hizzhaider33" height="30" width="40" /></a>
-  <a href="mailto:muhammadhaiderali782002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="muhammadhaiderali782002@gmail.com" height="30" width="40" /></a>
-</p>
+ 
 
 
   
