@@ -105,23 +105,26 @@
 
 
 
-
+<br>
+<br>
 <p align="left">
   <img   alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 </p>
-<br>
-<br>
+
   
   
  
   <div>
   <div> </div>
+<!--
 📈 &nbsp; My GitHub Stats
-</div> 
+</div> -->
 
-![](https://github-readme-stats.vercel.app/api?username=haiderali780&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=haiderali780&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderali780&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali780&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
+
 
 
 
