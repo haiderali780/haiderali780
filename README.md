@@ -16,7 +16,7 @@
 
 🎓 Software Engineer
 
-Got it 👍 You want your GitHub profile summary formatted in **Markdown**, with each point on a separate line. Here’s the cleaned-up version:
+
 
 
 💻 **Full-Stack Engineer | Backend Specialist**
@@ -38,7 +38,7 @@ Got it 👍 You want your GitHub profile summary formatted in **Markdown**, with
 
 
 
-<br> 
+
 
 <p align="center">
   
