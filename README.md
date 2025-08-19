@@ -55,9 +55,7 @@
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white&labelColor=gray" alt="Django REST Framework">
   <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
 
-  <!-- Other Languages -->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+ 
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
@@ -82,6 +80,10 @@
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  
+    <!-- Other Languages -->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
 
   <!-- Data & AI -->
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
