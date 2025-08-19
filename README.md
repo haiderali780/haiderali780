@@ -16,14 +16,21 @@
 
 🎓 Software Engineer
 
-💻 Full-Stack Engineer | Backend Specialist
+Got it 👍 You want your GitHub profile summary formatted in **Markdown**, with each point on a separate line. Here’s the cleaned-up version:
 
-🔹 Backend: Django, DRF, FastAPI — secure and scalable API development
-🔹 Frontend: React.js, JavaScript, Tailwind CSS, MUI — responsive UI design
-🔹 Databases: SQL & NoSQL, query optimization, ORM frameworks for efficient data handling
-🔹 DevOps: Docker, CI/CD pipelines, AWS — smooth deployment and scalability
+
+💻 **Full-Stack Engineer | Backend Specialist**
+
+🔹 **Backend:** Django, DRF, FastAPI — secure and scalable API development  
+🔹 **Frontend:** React.js, JavaScript, Tailwind CSS, MUI — responsive UI design  
+🔹 **Databases:** SQL & NoSQL, query optimization, ORM frameworks for efficient data handling  
+🔹 **DevOps:** Docker, CI/CD pipelines, AWS — smooth deployment and scalability  
 
 ⚡ I focus on building maintainable, high-performance systems that deliver real-world impact.
+
+
+
+
 
 
 ### 🛠 &nbsp; Tech Stack  
@@ -86,6 +93,7 @@
 
   <!-- Other Tech -->
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" alt="NPM">
