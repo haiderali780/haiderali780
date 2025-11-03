@@ -21,7 +21,7 @@
 
 💻 **Full-Stack Engineer | Backend Specialist**
 
-🔹 **Backend:** Django, DRF, FastAPI — secure and scalable API development  
+🔹 **Backend:** Django, DRF, FastAPI, Node.js, Express.js — secure and scalable API development  
 🔹 **Frontend:** React.js, JavaScript, Tailwind CSS, MUI — responsive UI design  
 🔹 **Databases:** SQL & NoSQL, query optimization, ORM frameworks for efficient data handling  
 🔹 **DevOps:** Docker, CI/CD pipelines, AWS — smooth deployment and scalability  
@@ -52,6 +52,9 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white&labelColor=gray" alt="Django REST Framework">
   <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
