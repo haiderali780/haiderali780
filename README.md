@@ -19,10 +19,10 @@
 
 
 
-💻 **Full-Stack Engineer | Backend Specialist**
+💻 **Full-Stack Engineer**
 
-🔹 **Backend:** Django, DRF, FastAPI, Node.js, Express.js; secure, scalable API development  
-🔹 **Frontend:** React.js, JavaScript, Tailwind CSS, MUI; responsive, modern UI design  
+🔹 **Frontend:** React.js, JavaScript, Tailwind CSS, MUI; responsive, modern UI design 
+🔹 **Backend:** Django, DRF, FastAPI, Node.js, Express.js; secure, scalable API development 
 🔹 **Databases:** SQL & NoSQL, query optimization, ORM frameworks for efficient data handling  
 🔹 **DevOps:** Docker, CI/CD pipelines, AWS; reliable deployment and system scalability  
 
