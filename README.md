@@ -19,15 +19,17 @@
 
 
 
-💻 **Full-Stack Engineer**
 
-🔹 **Frontend:** React.js, JavaScript, Tailwind CSS, MUI; responsive, modern UI design 
-🔹 **Backend:** Django, DRF, FastAPI, Node.js, Express.js; secure, scalable API development 
-🔹 **Databases:** SQL & NoSQL, query optimization, ORM frameworks for efficient data handling  
-🔹 **DevOps:** Docker, CI/CD pipelines, AWS; reliable deployment and system scalability  
 
-⚡ **Focused on building maintainable, high performance systems that deliver real world impact**
+🔹 **Frontend:** React.js, JavaScript, TypeScript, Tailwind CSS, MUI — building responsive, scalable, and user-centric web applications
 
+🔹 **Backend:** Django, DRF, FastAPI, Node.js, Express.js — designing secure APIs and scalable backend services
+
+🔹 **Databases:** PostgreSQL, MySQL, MongoDB — data modeling, query optimization, and ORM-based development
+
+🔹 **DevOps & Cloud:** Docker, CI/CD, AWS — automated deployments, monitoring, and infrastructure scalability
+
+⚡ **Focused on building maintainable, high-performance software systems that solve real-world problems and deliver measurable business impact.**
 
 
 
